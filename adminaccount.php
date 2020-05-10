@@ -11,7 +11,7 @@ include("headers.php");
   <div id="breadcrumb">
 
 <div class="dropdown">
-<strong>Admin Dashboard</strong>
+<strong>Admin Dashboard.</strong>
 </div>
 
 
