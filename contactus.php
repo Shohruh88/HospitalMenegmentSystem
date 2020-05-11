@@ -7,7 +7,7 @@ if(isset($_POST[submit]))
 				<strong>Message :-</strong> $_POST[comment]
 				";
 	
-	sendmail("yashikachinz1997@gmail.com","Mail from Appoint My Doctor",$message);
+	sendmail("shohruh2788@gmail.com","Mail from Appoint My Doctor",$message);
 	
 }
 ?>

@@ -33,7 +33,7 @@ include("header.php");
         <div class="clear"></div>
       </div>
       <p><strong>Directors message:</strong><br />
-      Keeping in with the prime objective of the SDME Society of providing value based education and social service, the SDM College of Medical Sciences &amp; Hospital, Dharwad was established in the year 2003 to address the ever growing demand by the society for quality health care professionals delivering quality health care through quality infrastructure at an affordable cost to alleviate human suffering through healing hands.</p>
+      Keeping in with the prime objective of the SDME Society of providing value based education and social service, the SDM College of Medical Sciences &amp; .</p>
     </div>
     <div id="column">
       <div id="featured">
