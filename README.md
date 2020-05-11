@@ -20,4 +20,4 @@ Dashboard module
 Billing module
 Order module
 
-For updates and reports visit: https://www.studentprojectguide.com/php/online-hospital-management-system/
+For updates and reports visit: https://www.Algosoft.uz/
